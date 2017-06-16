@@ -1,7 +1,7 @@
 git_repository(
     name = "io_bazel_rules_docker",
     remote = "https://github.com/bazelbuild/rules_docker.git",
-    tag = "v0.0.1",
+    commit = "6064bb5f84553d56222e66f154a5f8a434f220ab",
 )
 
 load(
